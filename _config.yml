@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Roshan's Blog
+description:      'Giving my perspective on the world and things around through my experience, interaction and my camera lens'
+url:              http://roshrestha.github.io
+baseurl:          /
+
+author:
+  name:           'Roshan Shrestha'
+  url:            https://twitter.com/roshan_shrestha
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:           https://github.com/roshan2004
+
