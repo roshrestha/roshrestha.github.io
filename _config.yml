@@ -1,5 +1,8 @@
 # Dependencies
-markdown:         kramdown
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
+
 highlighter:      pygments
 
 # Permalinks
@@ -19,4 +22,5 @@ author:
 paginate:         5
 
 # Custom vars
+# math_engine: jekyll-katex
 
