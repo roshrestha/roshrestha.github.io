@@ -1,9 +1,39 @@
 ---
-layout: post
-title: Heat and Thermodynamics - Class 11
-date: 2020-03-30
+layout: page
+title: Resources
 ---
-# Heat and Thermodynamics
+# Heat and Thermodynamics - Class 11
+## Long Questions
+1. Define linear expansion, superficial expansion and cubical expansion. Derive the expression for them.
+2. Define linear expansivity and superficial expansivity. Derive the relation between them.
+3. Define linear expansivity and cubical expansivity. Derive the relation between them.
+4. Describe the Pullinger’s experiment to determine the linear expansivity of a metallic rod.
+5. Define real expansivity and apparent expansivity. Derive the relation between them.
+6. Describe the Dulong and Petit’s experiment to determine the cubical expansivity of a liquid.
+7. State and deduce the expression of Newton’s law of cooling.
+8. Define water equivalent of a substance. Describe the experiment to determine the specific heat capacity a solid by the method of mixture.
+9. Using Newton’s law of cooling, explain the experiment to find the specific capacity of a liquid by the method of cooling.
+10. Define latent heat of fusion of ice. Describe the experiment to determine the latent heat of fusion of ice by the method of mixture.
+11. Describe the experiment to determine the latent heat of evaporation of water by the method of mixture.
+12. State and explain (a) Boyle’s law and (b) Charle’s law.
+13. Derive the expression of ideal gas equation.
+14. What are the postulates of kinetic theory of gases? Derive the pressure exerted by the gas on a cube.
+15. Derive an expression for average kinetic energy per molecule of of an ideal gas.
+16. Show that rms speed of the gas molecules is directly proportional to the square root of temperature.
+17. Derive the gas laws from kinetic theory of gases.
+18. Derive an expression for the rms speed of gas molecules.
+19. What is triple point? Show that triple point is single for a substance.
+20. On what factors, conduction of heat depends? Derive the expression for rate of heat flow through a conductor. Also define temperature gradient.
+21. Explain the Searl’s method of determination of thermal conductivity of a conductor.
+22. What is black body? State and explain Stefan's law of black body radiation. Also derive the expression for the stefan’s Boltzmann law.
+23. Differentiate between the molar heat capacities at constant pressure and at constant volume. Show that $C_p - C_v = R$.
+24. State isothermal equation . Derive the expression for isothermal work done for the ideal gas.
+25. State and derive adiabatic equations.
+26. Derive an expression for adiabatic work done.
+27. State Kelvin-Planck and Clausius's statement of the second law of thermodynamics.
+29. Explain the working principle of Carnot’s engine. Deduce its efficiency.
+30. Explain the working principle of Petrol engine with PV diagram. Deduce its efficiency.
+31. Explain the working principle of Diesel engine with PV diagram.
 ## Numericals
 ### Thermometry and Thermal expansion
 
