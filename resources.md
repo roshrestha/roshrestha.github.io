@@ -250,3 +250,5 @@ Stefen's constant ($σ$) = $5.7 \times 10^{-8} Wm^{-2}K^{-4}$
     
 3.  Find the mass of water vapour per cubic meter of air at temperature 300 K and relative humidity 50%. The saturated vapour pressure at 300 K is 3600 Pa and R = 8.3 $J mol^{-1} K^{-1}$. [ Ans: 26 grams]
 
+A pdf file of these resources can be obtained from <a href="/files/Heat and Thermodynamics.pdf" download>here.</a>
+
