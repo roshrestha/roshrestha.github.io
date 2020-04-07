@@ -252,3 +252,32 @@ Stefen's constant ($σ$) = $5.7 \times 10^{-8} Wm^{-2}K^{-4}$
 
 A pdf file of these resources can be obtained from <a href="/files/Heat and Thermodynamics.pdf" download>here.</a>
 
+## Short Questions with their answers (Thermodynamics)
+
+**1. The internal energy of a compressed gas is less than that of a rarefied gas at the same temperature, Why?**
+
+
+The internal energy of a gas is the sum of its potential and kinetic energy. i.e. $$U = P.E + K.E$$
+Since Kinetic energy of a gas is the function of its temperature, which is same, for both compressed and rarefied gas, the kinetic energy remains constant. But, the potential energy of gas is the function of the intermolecular distance of the molecules, which decreases in compressed gas. So, the potential energy is less in compressed gas than in rarefied gas. Hence, the internal energy of a compressed gas is less than that of a rarefied gas at the same temperature.
+
+**2. Petrol engine is less efficient than diesel engine. Explain.**
+
+In terms of compression ratio, the efficiency of heat engine is given by,
+$$\eta = \left [ 1- \left ( \frac{1}{\rho}\right )^{\gamma -1}  \right ] \times 100\%$$
+where, $\gamma=\frac{c_p}{c_v}$ is called specific heat ratio and $\rho=\frac{V_2}{V_1}$ is called compression ratio. For a petrol engine, '$\rho$' is smaller than the diesel engine; typically($\rho = 5$ for petrol engine and $\rho = 12.6$ for a diesel engine). So, petrol engine is less efficient than diesel engine.
+
+**3. Why does a rerigerator consume more power in summer than in winter to cool the same quantity of food by same degree?**
+
+The working of a refrigerator is based on the fact that the working substance(coolant) absorbs heat energy $(Q_2)$ from the source(cold body) and rejects the heat $(Q_1)$ to the sink(hot body or surrounding) by doing external work in the working substance. The external work done in the working substance is given by, $W=Q_1 - Q_2$. So, larger the temperature difference, more external energy is to be given to the refrigerator. Since, there is more temperature difference between cold body in refrigerator and sink(room) in summer, more work is to be done by the refrigerator in summer than in winter. Hence, a refrigerator consumes more power in summer than in winter too cool the same quantity of food by same degree.
+
+**4. Entropy is defined in the second law of thermodynamics. Can the first law be expressed in terms of entropy? How?**
+
+No, the first law of thermodynamics can't be expressed in terms of entropy. The first law is about the conservation of energy whereas, the second law is not. The second law is a statement about the direction of the flow of heat energy. Also, entropy is not a conserved quantity; it either increases or stays the same for an isolated system, whereas energy is a conserved quantity. So, the first law is a statement of conservation of energy, explaining the exchanges in energy between the system and its surroundings while the second law is a statement about the natural direction of a thermodynamic process.
+
+**5. Is it possible to construct a heat engine that creates no thermal pollution?**
+
+No, we cannot construct a heat engine that creates no thermal pollution, because for a cyclic process in heat engine, some amount of heat energy has to be rejected(transferred) to the sink for converting the heat energy into mechanical work which is in compliance with the second law of thermodynamics. Also, work done is given by
+$$W = Q_1-Q_2$$
+and $Q_2$ cannot be zero which would mean only a single source.
+
+                                                                        
