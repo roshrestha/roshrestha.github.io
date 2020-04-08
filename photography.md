@@ -15,3 +15,8 @@ During our recent trip to Chitwan, we came across this little sweet child, who j
 
 Teenagers of this era may be quite surprised to know that laping is not a new food that's very popular these days because of its spices. It's been in the food market for a long time now. If I can recall correctly, around 2 decades ago, my father used to get this for us at our home. But, I am so happy that different forms of this laping exist now which is getting popular day by day. Wanna have my share :yum:
 
+<center><img src="/images/IMG_4688.CR2.jpg" alt="Narayani Bridge"></center>
+
+I loved the color I was able to capture in this image as the dusk was falling rapidly in the Narayani Bridge over the Narayani River. 
+
+
