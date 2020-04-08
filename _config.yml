@@ -20,6 +20,8 @@ author:
   url:            https://twitter.com/roshan_shrestha
 
 paginate:         5
+plugins:
+  - jemoji
 
 # Custom vars
 # math_engine: jekyll-katex

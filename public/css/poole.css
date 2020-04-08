@@ -428,3 +428,9 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+img.emoji {
+    display: inline;
+    height: 1.0em;
+    width: 1em;
+    margin-bottom: 0.05em;
+}

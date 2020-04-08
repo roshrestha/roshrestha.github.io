@@ -5,6 +5,7 @@ gem "jekyll-gist"
 gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem 'katex', '~> 0.6.0'
+gem 'jemoji'
 group :jekyll_plugins do
   gem "jekyll-paginate"
 end
