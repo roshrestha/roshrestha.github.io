@@ -257,13 +257,18 @@ A pdf file of these resources can be obtained from <a href="/files/Heat and Ther
 **1. The internal energy of a compressed gas is less than that of a rarefied gas at the same temperature, Why?**
 
 
-The internal energy of a gas is the sum of its potential and kinetic energy. i.e. $$U = P.E + K.E$$
+The internal energy of a gas is the sum of its potential and kinetic energy. i.e.
+<p style="text-align: center;"> 
+$$U = P.E + K.E$$
+</p>
 Since Kinetic energy of a gas is the function of its temperature, which is same, for both compressed and rarefied gas, the kinetic energy remains constant. But, the potential energy of gas is the function of the intermolecular distance of the molecules, which decreases in compressed gas. So, the potential energy is less in compressed gas than in rarefied gas. Hence, the internal energy of a compressed gas is less than that of a rarefied gas at the same temperature.
 
 **2. Petrol engine is less efficient than diesel engine. Explain.**
 
 In terms of compression ratio, the efficiency of heat engine is given by,
+<p style="text-align: center;">
 $$\eta = \left [ 1- \left ( \frac{1}{\rho}\right )^{\gamma -1}  \right ] \times 100\%$$
+</p>
 where, $\gamma=\frac{c_p}{c_v}$ is called specific heat ratio and $\rho=\frac{V_2}{V_1}$ is called compression ratio. For a petrol engine, '$\rho$' is smaller than the diesel engine; typically($\rho = 5$ for petrol engine and $\rho = 12.6$ for a diesel engine). So, petrol engine is less efficient than diesel engine.
 
 **3. Why does a rerigerator consume more power in summer than in winter to cool the same quantity of food by same degree?**
@@ -279,5 +284,43 @@ No, the first law of thermodynamics can't be expressed in terms of entropy. The 
 No, we cannot construct a heat engine that creates no thermal pollution, because for a cyclic process in heat engine, some amount of heat energy has to be rejected(transferred) to the sink for converting the heat energy into mechanical work which is in compliance with the second law of thermodynamics. Also, work done is given by
 $$W = Q_1-Q_2$$
 and $Q_2$ cannot be zero which would mean only a single source.
+
+
+**6. Can a room be cooled by leaving the doors of an electric refrigerator open in a closed room?**
+
+
+No, a room cannot be cooled by leaving the doors of an electric refrigerator open, rather it will get slightly heated when the door of the refrigerator is kept open. A refrigerator works by absorbing heat from the source(hot body) and rejecting heat to the sink(cold body) by doing external work on the working substance. So, since heat is being rejected to the sink, which in our case is the room as well when the door is open, the heat is added to the room which slightly heats the room.
+
+**7. What is the temperature of vacuum? Explain**
+
+Temperature is a measure of the average kinetic energy of molecules. Since there are no molecules in vacumm, the average kinetic energy is zero, and hence the temperature of vacuum is 0K.  
+   <p style="text-align: center;">$$K.E_{avg} = \frac{3}{2}k_{B}T$$</p>
+
+**8. Two blackbodies of different materials, but of identical shape and size are at the same temperature. Will their radiant power be the same or different? Justify your answer.**
+
+The power radiated by a blackbody is given by, $$P=e\sigma A T^4$$
+Although, the surface area $(A)$ and temperature $(T)$ are same for both bodies, they have different emissivities$(e)$ which is a characteristic of a material(body). So, their radiant power will be different. 
+
+**9. Why does a weighted metallic wire cut through ice?**
+
+Substances like ice show a peculiar property called regelation in which it melts when pressure is increased and freezes again when pressure is reduced. So, when the weighted metallic wire presses the ice block, the ice under the wire starts melting due to decrease in melting point as a result of increase in pressure. Now, the water formed due to melting of ice freezes again as it starts to lose heat to the surrounding and freezes again. Similar process continues until the metallic wire cut through ice.
+
+**10. Steam at $100^{0}C$ has large amount of heat than water at $100^{0}C$. Why?**
+
+We have to provide latent heat to convert water to steam at $100^{0}C$. So, the amount of heat contained by the steam is greater than the amount of heat in same mass of water at $100^{0}C$. 
+
+**11. If a mixture of gas is compressed, heating effect is produced. Why?**
+
+
+When a mixture of gas is compressed, work is done on the gas $(-dW)$. From the first law of thermodynamics we have,  
+<p style="text-align: center;">
+$$dQ=dU+dW$$  
+$$dU=dQ-dW$$  
+$$dU=dQ-(-dW)$$   
+$$dU=dQ+dW$$  
+</p>
+So, the internal enegy of gas increases and hence the heating effect is produced.
+
+                                                                              
 
                                                                         
