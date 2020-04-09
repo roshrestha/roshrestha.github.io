@@ -321,6 +321,39 @@ $$dU=dQ+dW$$
 </p>
 So, the internal enegy of gas increases and hence the heating effect is produced.
 
+**12. Ocean contains large amount of thermal energy. Can we use the thermal energy to do work. Explain**
+
+
+According to the second law of thermodynamics(Kelvin Planck), we cannot extract heat energy from the source(hot body) and use it all to do work. Some amount of heat energy must be rejected(exhausted) to the sink(cold body).
+So, while the ocean contains an enormous amount of thermal energy, it is of no use unless we can reject some amount of that heat energy into some other much cooler reservoir and extract energy from that process.
+
+**13. Before giving you an injection, a physician swabs your arm with isopropyl alcohol at room temperature. Why does this make your arm feel cold?**
+
+Isopropyl alcohol is a volatile substance, so it evaporates quickly due to the latent heat provided by our body. Since our body loses heat to evaporate the isopropyl alcohol, our arm feels cold.
+
+**14. $C_P$ is greater than $C_V$. Why?**
+
+$C_P$ and $C_V$ are the molar heat capacities at constant pressure and volume respectively defined by $C_P=\frac{(dQ)_P}{ndT}$ and $C_V=\frac{(dQ)_V}{ndT}$. At constant pressure in a system, the supplied heat is used to increase the internal energy of the system and to do the external work. i.e. $(dQ)_P = dU+dW$. But, at constant volume, all the supplied heat is used to increase the internal energy(i.e. temperature) of the system as $(dQ)_V = dU$. So, more heat energy is required to raise the temperature of the gas by same amount at constant pressure than at constant volume. Hence, $C_P$ is greater than $C_V$. Mathematically,  
+<p style="text-align: center;">
+$$C_{P}-C_{V}=R$$  
+</p>
+where R is a universal gas constant.
+
+**15. Why are dews formed in the early morning hours? Explain.**
+
+For the formation of dews, the temperature of the atmosphere should fall below the dew point which is the temperature of the atmosphere at which the atmosphere is fully saturated. This condition is achieved only during the early morning because the atmosphere around the earth gets heated during the day time and gradually loses heat at the night time, with temperature becoming minimum in the early morning hours.
+
+**16. How can water be boiled in a thin paper cup?**
+
+When we take some water in a thin paper cup and heat it, the water in the paper cup absorbs the heat and does not allow the paper to reach the ignition temperature at which it would burn. So, the water can be boiled in a thin paper cup without burning the paper.
+
+
+**17. Why is the triple point, instead of the melting point or boiling point of water, taken as a standard fixed point in modern thermometry?**
+
+
+Triple point is the point on a P-T diagram at which all the three states of a substance coexist in equilibrium which for water corresponds to the pressure of $0.0061 \times 10^5$ Pa and $273.16$K. The melting and boiling point of water changes with pressure as well as with the presence of impurities. But, triple point of water is independent of these external factors. So, in modern thermometry, the triple point of water is taken as a standard fixed point.
+
+
                                                                               
 
                                                                         
