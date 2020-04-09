@@ -353,6 +353,45 @@ When we take some water in a thin paper cup and heat it, the water in the paper 
 
 Triple point is the point on a P-T diagram at which all the three states of a substance coexist in equilibrium which for water corresponds to the pressure of $0.0061 \times 10^5$ Pa and $273.16$K. The melting and boiling point of water changes with pressure as well as with the presence of impurities. But, triple point of water is independent of these external factors. So, in modern thermometry, the triple point of water is taken as a standard fixed point.
 
+**18. Two copper balls having mass 5gm and 10gm collide with a target with the same velocity. If the total energy is used in heating the balls, which ball will attain higher temperature?**
+
+Let 'c' be the specific heat capacity of the copper which is same for both balls. Here, the kinetic energy is converted to the heat energy. So,
+<p style="text-align: center;">  
+$$\frac{1}{2}mv^{2}=mcd\theta$$  
+$$\frac{1}{2}v^{2}=cd\theta$$  
+$$v^{2} \propto d\theta$$   
+</p>
+Here, the rise in temperature doesnot depend on the mass of the ball, so both balls will attain same temperature.
+
+
+
+**19. Explain why two pieces of ice stick when pressed together?**
+
+
+When the two ice pieces of ice are pressed together, melting point of ice is lowered, so they melt to form a thin layer of water between them. On releasing(decreasing) the pressure, the water formed freezes due to the decrease in pressure. Hence, the two pieces of ice stick when pressed together.
+
+**20. The temperature of the surface of the sun is 6000K. If we take a big lens and focus the sun rays, can we produce a temperature of 8000K?**
+
+No, we can't, because according to the second law of thermodynamics, there cannot be a transfer of heat from a body at lower temperature to a body at higher temperature without the external work. So, it is not possible to produce temperature of 8000K by focusing the sun rays with a big lens.
+
+**21. A room has one wall made of concrete, one wall made of copper, and one wall made of mud. All of the walls are the same size and at the same temperature of 20°C. Which wall feels coldest to the touch?**
+
+The rate of transfer of heat across a conductor of thickness 'x' with cross-section area 'A' is given by  
+<p style="text-align: center;">
+$$\frac{Q}{t}=\frac{kA(\theta_1-\theta_2)}{x}$$  
+</p>
+Since the thermal conductivity(k) of copper is more than mud and concrete i.e. copper is better conductor of heat than mud and concrete, it transfers more amount of heat across it than the mud and concrete. So, the wall made of copper feels coldest to the touch.
+
+**22. Explain why the temperature of a gas drops in an adiabatic expansion.**
+
+In an adiabatic expansion, no heat is exhanged between the system and the surrounding i.e. $dQ = 0$. From the first law of thermodynamics we have,  
+<p style="text-align: center;">
+$$dQ= dU + dW$$  
+$$dU=-dW \hspace{0.5cm} ∵ dQ=0$$  
+</p>
+So, in an adiabatic expansion, internal energy of the gas decreases. As, internal energy is a function of temperature, the temperature of gas drops in an adiabatic expansion.
+
+
 
                                                                               
 
