@@ -391,6 +391,51 @@ $$dU=-dW \hspace{0.5cm} ∵ dQ=0$$
 </p>
 So, in an adiabatic expansion, internal energy of the gas decreases. As, internal energy is a function of temperature, the temperature of gas drops in an adiabatic expansion.
 
+**23. Can Charle's law define an abolsute scale of temperature?**
+
+<center><img src = '/images/kelvin.png' style = "width:300px; height:250px"/></center>
+
+Yes, Charle's law can define an absolute scale of temperature. According to Charle's law, at constant pressure, volume of gas decreases as its temperature decreases $V \propto T$, so there must be a limit to how cold a gas could be because the volume of gas could not be negative. If we extrapolate the graph of the straight line of the volume as a function of temperature, we can see that volume becomes zero at a temperature of $-273.15^{0}C$. So, if we define this corresponding temperature to zero on the absolute scale $(T = 0 K)$at which volume of gas is zero, then we can define an absolute scale of temperature where 0K is the lowest possible temperatue.
+
+**24. Why is a mud-house cooler in summer and warmer in winter?**
+
+Mud is a poor conductor of heat compared to other building materials like bricks, wood etc. Therefore, mud neither allows the external heat to enter the house in summer nor it allows the internal heat to escape out in winters. Hence, mud-house remains cooler in summer and warmer in winter. 
+
+**25. A good absorber is also a bad reflector and vice-versa. Explain**
+
+Let r, a and t be the reflection coefficient, absorption coefficient and transmission coefficient of a body.   
+<p style="text-align: center;">
+$$r+a+t=1$$  
+</p>
+If a body does not transmit any thermal radiation, then its transmission coefficient (t=0), so  
+<p style="text-align: center;"> 
+$$r+a=1$$ $$r=1-a$$
+</p> 
+As we can see that, if r is more, a is less and vice versa, i.e., a good absorber is also a bad reflector and vice-versa.
+
+**26. When you blow on the back of your hand with your mouth wide open, your breath feels warm. But if you partially close your mouth to form an “o” and then blow on your hand, your breath feels cool. Why?**
+
+When we blow on the back of our hand with our mouth wide open, the exhaled gases emerge at the temperature of our body, so our breath feels warm. But, if we partially close our mouth to form an 'o' and then blow on our hand, the process takes place so quickly that there is not enough time for the appreciable flow of heat to occur. So, it is an adiabatic expansion $(dQ=0)$. From the first law of thermodynamics we have,  
+<p style="text-align: center;">
+$$dQ=dU+dW$$
+$$dU=-dW$$
+</p>
+So, the internal energy decreases and since temperature is a function of internal energy, it drops. Hence, our breath feels cold.
+
+**27. When the air of the atmosphere rises up it cools. Why?**
+
+When the air rises up, it expands due to decrease in the atmospheric pressure. From the first law of thermodynamics we have,  
+<p style="text-align: center;">
+$$dQ=dU+dW$$
+$$dU=dQ-dW$$
+</p>
+So, as it expands, work done by the gas $dW$ increases. Thus, internal energy decreases. As temperature is a function of internal energy, the air cools as it rises up.
+
+**28. Why should a room air conditioner be placed in a window? Why can't it be set on the floor and plugged in?**
+
+The working of an air conditioner is similar to that of a refrigerator. So, from the second law of thermodynamics, we know that inorder to transfer the heat from the cold body to the hot body, some external work must be done in the working substance. So, air conditioner can't be set on the floor because it absorbs heat from the cold  and discharge it into the room making it warmer. But, if it is placed in a window, it transfers heat form inside the location to be cooled to outside the room through window making the room cooler.
+
+
 
 
                                                                               
