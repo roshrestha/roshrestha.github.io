@@ -436,6 +436,49 @@ So, as it expands, work done by the gas $dW$ increases. Thus, internal energy de
 The working of an air conditioner is similar to that of a refrigerator. So, from the second law of thermodynamics, we know that inorder to transfer the heat from the cold body to the hot body, some external work must be done in the working substance. So, air conditioner can't be set on the floor because it absorbs heat from the cold  and discharge it into the room making it warmer. But, if it is placed in a window, it transfers heat form inside the location to be cooled to outside the room through window making the room cooler.
 
 
+**29. A faulty thermometer has its fixed points marked as $5^{0}C$ and $95^{0}C$. What is the correct temperature in Celsius scale when this thermometer reads $45^{0}C?$**
+
+For both Celsius and faulty thermometer we have,  
+<p style="text-align: center;">
+$$\frac{\textrm{Reading - Lower fixed point}}{\textrm{Upper fixed point - Lower fixed point}} = \frac{\textrm{Reading - Lower fixed point}}{\textrm{Upper fixed point - Lower fixed point}}$$  
+Let, T be the reading in Celsius scale and x be the reading in faulty thermometer,   
+$$\frac{\textrm{T - Lower fixed point}}{\textrm{Upper fixed point - Lower fixed point}} = \frac{\textrm{x - Lower fixed point}}{\textrm{Upper fixed point - Lower fixed point}}$$  
+$$\frac{\textrm{T - 0}}{\textrm{100 - 0}} = \frac{\textrm{45 - 5}}{\textrm{95 - 5}}$$  
+$$\therefore T = 44.44^{0}C$$
+</p>
+
+
+**30. Differentiate between petrol engine and diesel engine.**
+
+| Petrol Engine  | Diesel Engine   |
+|---|---|
+| It uses air and petrol vapour as working substance. | It uses air as working substance.   |
+| It uses petrol as fuel.   | It uses diesel as fuel.   |
+| It is lighter than the diesel engine.   | It is heavier than the petrol engine.   |
+| Spark plug is needed to burn the fuel.  |  The fuel burns automatically at high pressure, so spark plug isnot needed |
+|It has comparatively low thermal efficiency than diesel engine. | It has comparatively high thermal efficiency than petrol engine.
+
+**31. In kinetic theory of gas, why do we not take into account the changes in gravitational potential energy of the molecules?**
+
+The gravitational potential energy of a gas molecule is given by $U=\frac{-GMm}{r}$. Since the mass of the molecule is very small, the effect of gravity is negligible and hence the changes in gravitational potential energy is insignificant. So, we do not take into account the change in gravitational potential energy of the molecules in kinetic theory of gas.
+
+**32. Compare the properties of saturated and unsaturated vapours.**
+
+ | Unsaturated Vapour | Saturated Vapour   |
+|--------------------|---|
+| Unsaturated vapour is the vapour in a space at a particular temperature which can hold additional amount of vapour in it.                   | Saturated vapour is the vapour in a space at a particular temperature which cannot hold additional amount of vapour in it.  |
+| Unsaturated vapour is produced when no liquid is in contact with it in a closed space.      |   A saturated vapor is one which is in contact with liquid in a closed space. |
+| Unsaturated vapour roughly obeys gas laws.           | Saturated vapour do not obey gas laws. |
+
+
+
+**33. Explain why dews are formed in the clear nights but not in the cloudy night.**
+
+Dews are formed in very cold atmosphere when the temperature of the atmosphere falls below dew point. At clear nights, the heat absorbed by atmosphere is allowed to escape out to the space around, hence the temperature can reach below dew point. But, in the cloudy night, the cloud acts as the blanket in the atmosphere and does not allow heat to escape out and keeps the air warm, so the temperature cannot reach to dew point.
+
+                                                                              
+
+
 
 
                                                                               
