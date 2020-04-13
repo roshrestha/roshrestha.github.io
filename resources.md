@@ -476,8 +476,36 @@ The gravitational potential energy of a gas molecule is given by $U=\frac{-GMm}{
 
 Dews are formed in very cold atmosphere when the temperature of the atmosphere falls below dew point. At clear nights, the heat absorbed by atmosphere is allowed to escape out to the space around, hence the temperature can reach below dew point. But, in the cloudy night, the cloud acts as the blanket in the atmosphere and does not allow heat to escape out and keeps the air warm, so the temperature cannot reach to dew point.
 
-                                                                              
+**34. It is sometimes injurious to put on wet clothes. Why?**
 
+Water has a high value of specific heat capacity, $4200 Jkg^{-1}$ $^0C^{-1}$. So,the wet clothes can take away a large amount of heat energy from the body due to which the temperature of the body may fall much below the normal temperature of the body. Hence, it is sometimes inurious to put on wet clothes.
+
+**35. In pressure cooker, the cooking is faster. Why**
+
+The boiling point of water increases as the pressure on it increases. In a pressure cooker, the pressure is very high due to the trapped steam. So, the temperature of water in it becomes greater than $100^{0}C$ before boiling. So,the temperature inside the pressure cooker increases and there will be higher transfer of heat to the food. Therefore, the cooking is faster in pressure cooker.
+
+
+**36. Why does a very cold metal (below freezing point) produce burning sensation when it touches the body?**
+
+When a very cold metal touches the body, the heat from will flow from our body to the cold metal due to temperature difference. Since the rate of heat transfer,  
+<p style="text-align: center;">
+$$\frac{Q}{t} \propto (\theta_1 -\theta_2)$$  
+</p>
+is proportional to the temperature difference, the rate of heat transfer will be very high which produces burning sensation.
+
+**37. A weather report said relative humidity of 80%. Explain its meaning**
+
+Relative humidity can be defined as the ratio of mass of water vapour present in a given volume of air to the mass of water vapour required to saturate the same volume of air at same temperature. So, it means than $80\% = \frac{4}{5}\textrm{th part}$ of atmosphere is saturated by water vapour. The atmosphere is still unsaturated at the temperature of air.
+
+**38. During the winter, the animals curl into a ball. Why**
+
+The rate of heat radiated by a black body is given by,
+<p style="text-align: center;">  
+$$P = e\sigma A(T^{4}-T_{0}^{4})$$   
+</p>
+where, e = emissivity, $\sigma$= Stefan's constant, A = surface area, T = temperature of the body and $T_0$ = temperature of the surrounding. Here, the rate of heat energy dissipated by the body is proportional to its surface area. Since the surface area is minimum in spherical shape for a given volume, the animals curl into a ball so that that the rate of heat radiated is reduced.
+
+                                                                              
 
 
 
