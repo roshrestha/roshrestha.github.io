@@ -50,5 +50,29 @@ alphabet_position('I am Roshan Shrestha')
 
 
     '9 1 13 18 15 19 8 1 14 19 8 18 5 19 20 8 1'
+    
+**Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').**
+
+Examples:
+
+solution('abc') should return ['ab', 'c_']  
+solution('abcdef') should return ['ab', 'cd', 'ef']  
+
+My solution  
+```python
+def solution(s):
+    if len(s) % 2==0:
+        b =[s[i:i+2] for i in range(0,len(s),2)]
+    else:
+        s+='_'
+        b =[s[i:i+2] for i in range(0,len(s),2)]
+    return b
+    
+```
+
+
+```python
+solution('abc')
+```
 
 
