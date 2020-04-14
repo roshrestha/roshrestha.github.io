@@ -505,6 +505,32 @@ $$P = e\sigma A(T^{4}-T_{0}^{4})$$
 </p>
 where, e = emissivity, $\sigma$= Stefan's constant, A = surface area, T = temperature of the body and $T_0$ = temperature of the surrounding. Here, the rate of heat energy dissipated by the body is proportional to its surface area. Since the surface area is minimum in spherical shape for a given volume, the animals curl into a ball so that that the rate of heat radiated is reduced.
 
+**39. Why is it much more difficult to make a precise determination of the coefficient of expansion of liquid than that of solid?**
+
+The liquid has no definite shape, so when the vessel containing liquid is heated, the vessel receives heat earlier than liquid. As a result, the expansion of the vessel takes place first due to which initially the liquid level falls in the vessel, only after that the level of liquid starts rising. So, since the vessel containing liquid also expands, it is much more difficult to make a precise determination of the coefficient of expansion of liquid than that of solid as we have to take the expansion of vessel containing liquid in consideration as well.
+
+**40. What is the effect of temperature on density of liquid?**
+
+When temperature of a substance is increased, its volume increases. We have,  
+<p style="text-align: center;">
+$$\rho_\theta=\frac{M}{V_\theta}$$  
+$$\rho_\theta=\frac{M}{V_{0}(1+\gamma \Delta \theta)}$$  
+$$\rho_\theta=\frac{\rho_{0}}{1+\gamma \Delta \theta}$$  
+</p>
+As the density is inversely proportional to the volume, the density of the substance decreases when the volume increases. So, the density of liquid decreases when the temperature increases.
+
+**41. Why is snow better insulator than ice?**
+
+When atmospheric temperature falls below $0^{0}C$, the water vapour present in the atmosphere freezes directly in the form of minute particles of ice which combine together form a cotton like shape called snow. This snow contains large number of air pockets. Since air is a good insulator of heat, it prevents the heat flow through it by convection process. However, ice is a solid form of water which does not enclose pockets of air. Hence, snow act is a better heat insulator than ice. 
+
+**42. Why is it hotter at the same distance over the top of a fire than infront of it?**
+
+At a point in front of fire, heat is received due to the process of radiation only, while at a point above the fire, heat reaches due to both radiation and convection. So, it is hotter at the same distance over the top of a fire than infront of it.
+
+**43. Are two thin blankets warmer than a single blanket of double the thickness?**
+
+A thin layer of air gets trapped in between two thin blankets. Since air is a bad conductor of heat, it does not allow the heat to pass to the surrrounding(atmosphere) from our body. But, air is not trapped in a single blanket, although its thickness is doubled. Therefore, two thin blankets are warmer than a single blanker of double the thickness.
+
                                                                               
 
 
