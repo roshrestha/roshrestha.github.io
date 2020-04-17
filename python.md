@@ -77,6 +77,7 @@ solution('abc')
 
 **This simple program automates the plotting for linear and quadratic function for now**
 
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -122,7 +123,8 @@ while running:
     else:
         print('Please try again!!!')
 print('Program ending')
-```python
+
+```
 
 
 
