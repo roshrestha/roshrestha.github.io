@@ -187,6 +187,32 @@ def substring_between_letters(word, start, end):
 print(substring_between_letters('roshan', 'r', 'n'))
 ```
 
+**Write simple .camelCase method (`camel_case` function in PHP, `CamelCase` in C# or `camelCase` in Java) for strings. All words must have their first letter capitalized without spaces**
+
+For instance:
+
+```python
+camelcase("hello case") => HelloCase
+camelcase("camel case word") => CamelCaseWord
+```
+
+        
+        
+ ```python
+def camel_case(string):
+    b=[]
+    a = string.split()
+    for i in a:
+        i=i.title()
+        b.append(i)
+    return ''.join(b)
+print(camel_case(''))
+
+
+```
+
+
+
 
 
 
