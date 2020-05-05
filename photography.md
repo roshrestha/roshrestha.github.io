@@ -18,5 +18,7 @@ Teenagers of this era may be quite surprised to know that laping is not a new fo
 <center><img src="/images/IMG_4688.CR2.jpg" alt="Narayani Bridge"></center>
 
 I loved the color I was able to capture in this image as the dusk was falling rapidly in the Narayani Bridge over the Narayani River. 
+<center><img src="/images/IMG_9368-Enhanced.jpg" alt="Spring"></center>
 
+It's day 42 of the lockdown and I finally got a chance to take my first click of the Spring from outside of my room.
 
