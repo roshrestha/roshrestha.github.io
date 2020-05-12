@@ -21,4 +21,6 @@ I loved the color I was able to capture in this image as the dusk was falling ra
 <center><img src="/images/IMG_9368-Enhanced.jpg" alt="Spring"></center>
 
 It's day 42 of the lockdown and I finally got a chance to take my first click of the Spring from outside of my room.
+<center><img src="chick.jpg" alt="chick"></center>
+Chick peeking through at a hatching center, clearly startled, starting a short, but an atrocious life journey ahead.
 
