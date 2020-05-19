@@ -57,7 +57,6 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
   background-image: url("/images/jason-leung-Xaanw0s0pMk-unsplash.jpg");
  
 }
@@ -68,7 +67,7 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: left;
+    text-align: justify;
   }
 }
 
