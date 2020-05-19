@@ -61,6 +61,8 @@ html {
 body {
   color: #151414;
   background-color: #ffffff;
+  background-image: url("/images/double-bubble-outline.png");
+
   
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
