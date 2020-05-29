@@ -2,8 +2,9 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
   <meta
-  name="Roshan Shrestha Blog"           
+  name="Roshan Shrestha Blog"
   content="Giving perspective on the world and things around through my experience, interaction and my camera lens. Have keen interest on Physics, Maths, Data Science and Molecular Dynamics simulation.">
 
   <!-- Enable responsiveness on mobile devices-->
@@ -51,7 +52,7 @@
 $("script[type='math/tex']").replaceWith(
   function(){
     var tex = $(this).text();
-    return "<span class=\"inline-equation\">" + 
+    return "<span class=\"inline-equation\">" +
            katex.renderToString(tex) +
            "</span>";
 });
@@ -59,7 +60,7 @@ $("script[type='math/tex']").replaceWith(
 $("script[type='math/tex; mode=display']").replaceWith(
   function(){
     var tex = $(this).text();
-    return "<div class=\"equation\">" + 
+    return "<div class=\"equation\">" +
            katex.renderToString("\\displaystyle "+tex) +
            "</div>";
 });
