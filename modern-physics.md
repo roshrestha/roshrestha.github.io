@@ -1,4 +1,4 @@
-s---
+---
 layout: page
 title: Modern Physics
 ---
