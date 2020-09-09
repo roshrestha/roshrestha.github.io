@@ -9,7 +9,7 @@ The experimental arrangement for the Millikan's oil drop experiment is shown in 
 
 ![milloil](/images/milloil.png)
 
-​                            **Fig: Experimental arrangement for Millikan's oil drop experiment **
+​                            **Fig: Experimental arrangement for Millikan's oil drop experiment**
 
 It consists of two parallel metal circular plates A and B with upper plate A maintained at high potential by connecting it to a high tension battery while the lower plate B is earthed so that the region between the plates is a region of uniform electric field. The upper plate has a hole H at is centre through which small charged oil drops are sprayed in the region between plates. The oil drops are  charged due to friction with air when squeezed through the atomizer. The whole arrangement is kept inside double walled jacket in which cold water keeps on circulating so that the internal temperature remains constant. This jacket also helps to prevent the zigzag motion of oil drop which would otherwise arise due to the convection current of air set up by the external conditions. 
 
@@ -20,7 +20,7 @@ This experiment is carried out in two steps:
 **i) Motion of oil drop under the effect of gravity alone ** 
 First of all, the charged oil drop is allowed to fall under the action of gravity alone by switching off the electric field. As the oil drop falls, its velocity keeps on increasing until a stage reaches when the net force acting on the oil drop becomes zero i.e. the upward forces; upthrust and viscous force equals the downward force; gravity. Now, the oil drop falls with the constant velocity called $v_1$ called terminal velocity.
 
-<img src="/images/aro1.png" alt="aro1" style="zoom: 50%;" />
+<img src="/images/aro1.png" alt="aro1" style="zoom: 20%;" />
 
 
 
@@ -52,7 +52,7 @@ For, Net force = 0
 
 Now, the experiment is conducted by applying a strong electric field between the plates so that the electric force due to the electric field on the identical oil drop which is negatively charged acts on the vertically upward direction. Again, the velocity of oil drop keeps on increasing in upward direction until a stage reaches when the net force acting on the oil drop becomes zero i.e. the upward forces; upthrust and electric force equals the downward force; gravity and viscous force. Now, the oil drop moves with the constant velocity called $v_2$ called terminal velocity in upward direction. Let, Q be the total charge on the oil drop and E be the electric field strength.
 
-<img src="/images/arro2.png" alt="arro2" style="zoom:50%;" />
+<img src="/images/arro2.png" alt="arro2" style="zoom:20%;" />
 
 For, Net force = 0
 
@@ -88,7 +88,7 @@ Let's consider two parallel plates separated by a distance **d** with upper plat
 
 ![electric](/images/electric.png)
 
-​                                            *Figure: Deflection of the electron in an electric field*
+​                                            **Figure: Deflection of the electron in an electric field**
 
 Here, the velocity of the electron along the horizontal direction(X-direction) is uniform, so **$a_x = 0$**. The horizontal distance travelled by the the electron is given by, 
 
@@ -184,9 +184,9 @@ So, if the electron enters into the field parallelly or antiparallelly, the elec
 
 <u>ii. When electron enters the field perpendicularly, i.e.</u> ($\theta = 90^0$)
 
-<img src="/images/intopage.png" alt="intopage" style="zoom:80%;" />
+<img src="/images/intopage.png" alt="intopage" style="zoom:50%;" />
 
-​                                    *Figure(i): Circular motion of electron in uniform magnetic field*
+​                                    **Figure(i): Circular motion of electron in uniform magnetic field**
 
 Then, the magnetic force experienced by the electron is,
 
@@ -220,9 +220,9 @@ Here, T is the time period of revolution of electron in the uniform magnetic fie
 
 <u>iii. When electron enters the magnetic field at any oblique angle $\theta$</u> 
 
-<img src="/images/helix.png" alt="helix" style="zoom:80%;" />
+<img src="/images/helix.png" alt="helix" style="zoom:50%;" />
 
-​                           *Figure(ii): Helical (spiral) motion of electron in uniform magnetic field* 
+​                           **Figure(ii): Helical (spiral) motion of electron in uniform magnetic field**
 
 In this condition, the component of velocity which is parallel to the magnetic field tends to move the electron in linear path, whereas the perpendicular component of velocity tends to move the electron in circular path. So, due to the combined effect, electron follows helical (spiral) path as shown in the figure(ii).
 
